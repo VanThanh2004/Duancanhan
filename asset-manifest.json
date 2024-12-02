@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/duancanhan/static/css/main.656ee165.css",
+    "main.js": "/duancanhan/static/js/main.bcffefd8.js",
+    "index.html": "/duancanhan/index.html",
+    "main.656ee165.css.map": "/duancanhan/static/css/main.656ee165.css.map",
+    "main.bcffefd8.js.map": "/duancanhan/static/js/main.bcffefd8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.656ee165.css",
+    "static/js/main.bcffefd8.js"
+  ]
+}
