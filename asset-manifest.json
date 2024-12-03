@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/duancanhan/static/css/main.656ee165.css",
-    "main.js": "/duancanhan/static/js/main.bcffefd8.js",
+    "main.css": "/duancanhan/static/css/main.5bc1a392.css",
+    "main.js": "/duancanhan/static/js/main.3791590f.js",
     "index.html": "/duancanhan/index.html",
-    "main.656ee165.css.map": "/duancanhan/static/css/main.656ee165.css.map",
-    "main.bcffefd8.js.map": "/duancanhan/static/js/main.bcffefd8.js.map"
+    "main.5bc1a392.css.map": "/duancanhan/static/css/main.5bc1a392.css.map",
+    "main.3791590f.js.map": "/duancanhan/static/js/main.3791590f.js.map"
   },
   "entrypoints": [
-    "static/css/main.656ee165.css",
-    "static/js/main.bcffefd8.js"
+    "static/css/main.5bc1a392.css",
+    "static/js/main.3791590f.js"
   ]
 }
